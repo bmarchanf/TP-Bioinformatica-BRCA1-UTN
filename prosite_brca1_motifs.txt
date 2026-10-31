@@ -1,0 +1,28 @@
+========================================================================================
+EJERCICIO 4B: ANÁLISIS DE DOMINIOS Y MOTIVOS PROSITE EN BRCA1
+========================================================================================
+Secuencia analizada: NM_007294.4_ORF_+3 (1863 aminoácidos)
+
+Motivo PROSITE: PS00518 - ZF_RING_1 (Zinc Finger RING-type signature)
+Función Biológica: Dominio E3 ubiquitina ligasa N-terminal; media la heterodimerización con BARD1.
+Ocurrencias detectadas: 1
+  -> Posición 39..48: 'CDHIFCKFCM'
+----------------------------------------------------------------------------------------
+Motivo PROSITE: PS50172 - BRCT (Dominio BRCA1 C-Terminal de unión a fosfopéptidos)
+Función Biológica: Dominio C-terminal de reconocimiento de proteínas fosforiladas por ATM/ATR (ABRAXAS1, BRIP1, CtIP).
+Ocurrencias detectadas: 1
+  -> Posición 1646..1705: 'VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL'
+----------------------------------------------------------------------------------------
+Motivo PROSITE: PS00015 - NLS_BP (Señal de Localización Nuclear)
+Función Biológica: Señal de importación nuclear activa de BRCA1 hacia el nucleoplasma.
+Ocurrencias detectadas: 1
+  -> Posición 503..508: 'KRKRRP'
+----------------------------------------------------------------------------------------
+Motivo PROSITE: PS00001 - ASN_GLYCOSYLATION (Sitio de N-glicosilación)
+Función Biológica: Sitio consenso de modificación postraduccional por N-glicosilación.
+Ocurrencias detectadas: 16
+  -> Posición 247..250: 'NTTE'
+  -> Posición 287..290: 'NSSL'
+  -> Posición 306..309: 'NKSK'
+  -> Posición 376..379: 'NSSI'
+----------------------------------------------------------------------------------------

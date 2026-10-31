@@ -1,0 +1,8 @@
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
+blast_ebi.*
+Bioinformatica - TP - cancer de mama - trabajo inicial nuestro.pdf
+Consigna TP Bioinformatica-2026 - Parte 1.pdf
+*Grupo E.docx

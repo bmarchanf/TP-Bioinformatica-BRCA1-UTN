@@ -1,0 +1,18 @@
+======================================================================================================
+EJERCICIO 2: RESUMEN DE HITS SIGNIFICATIVOS - BLASTP (Base de datos: SwissProt)
+======================================================================================================
+#   | Acceso / Proteína y Organismo                  | Bit Score | Raw Score | E-value  | Identidad  | Positivos
+------------------------------------------------------------------------------------------------------
+1   | SP:P38398 BRCA1_HUMAN Breast cancer type 1 sus | 3722      | 9652      | 0.0      | 100%       | 100%     
+2   | SP:Q9GKK8 BRCA1_PANTR Breast cancer type 1 sus | 3657      | 9482      | 0.0      | 98%        | 99%      
+3   | SP:Q6J6I8 BRCA1_GORGO Breast cancer type 1 sus | 3645      | 9451      | 0.0      | 98%        | 99%      
+4   | SP:Q6J6J0 BRCA1_PONPY Breast cancer type 1 sus | 3588      | 9304      | 0.0      | 97%        | 98%      
+5   | SP:Q6J6I9 BRCA1_MACMU Breast cancer type 1 sus | 3445      | 8933      | 0.0      | 93%        | 96%      
+6   | SP:Q95153 BRCA1_CANLF Breast cancer type 1 sus | 2660      | 6894      | 0.0      | 74%        | 83%      
+7   | SP:Q864U1 BRCA1_BOVIN Breast cancer type 1 sus | 2538      | 6578      | 0.0      | 72%        | 82%      
+8   | SP:P48754 BRCA1_MOUSE Breast cancer type 1 sus | 1858      | 4813      | 0.0      | 56%        | 70%      
+9   | SP:O54952 BRCA1_RAT Breast cancer type 1 susce | 1854      | 4802      | 0.0      | 56%        | 70%      
+10  | SP:Q4A0V8 UAFA_STAS1 Uro-adherence factor A OS | 107       | 268       | 8e-22    | 20%        | 39%      
+11  | SP:F4I443 BARD1_ARATH BRCA1-associated RING do | 86.3      | 212       | 2e-15    | 26%        | 45%      
+12  | SP:Q8RXD4 BRCA1_ARATH Protein BREAST CANCER SU | 80.9      | 198       | 9e-14    | 26%        | 47%      
+------------------------------------------------------------------------------------------------------
